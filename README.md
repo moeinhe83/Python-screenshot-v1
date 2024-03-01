@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Description Of Files:
 
-screenshot.py => For Run ===> python screenshot.py
+screenshot.py ==> For Run ===> python screenshot.py
 
 Required packages For Python ===> mss
 
