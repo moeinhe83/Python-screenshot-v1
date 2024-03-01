@@ -1,6 +1,6 @@
 Project Name ===> Screenshot
 
-Program Description ===> Screenshot Program from the system screen
+Program Description ===> Screenshot Program From the system screen
 
 Programming Language ===> Python
 
