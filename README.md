@@ -10,6 +10,6 @@ screenshot.py ==> For Run ===> python screenshot.py
 
 Required Packages For Python ===> mss
 
-mss ===> To install => pip install mss
+mss ===> To Install => pip install mss
 
 # Finish
