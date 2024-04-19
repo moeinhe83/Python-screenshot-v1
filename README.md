@@ -8,7 +8,7 @@ Description Of Files:
 
 screenshot.py ==> For Run ===> python screenshot.py
 
-Required packages For Python ===> mss
+Required Packages For Python ===> mss
 
 mss ===> To install => pip install mss
 
